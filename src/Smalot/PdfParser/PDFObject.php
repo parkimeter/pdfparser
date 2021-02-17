@@ -300,7 +300,7 @@ class PDFObject
                             )
                         ) {
                             // horizontal offset
-                            $text .= ' ';
+                            //$text .= ' ';
                         }
                         $current_position_td = ['x' => $x, 'y' => $y];
                         break;
